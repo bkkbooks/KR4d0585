@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0585/SBCK/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋東維子集後余嘗結廬城南日與柳風梧月竹韻松濤挈爲良友陶然長嘯若不知有人閒者雅好吟咏尤嗜􅀽景文詩業已刻而新之矣而楊廉夫又羨景文白燕諸作自以爲不及今讀其集博極羣書自成一家言想不在袁下第篇章零脫未鏡其金誠竊恨之辱承太冲袁老素號藏書工于製作一言相慨然見投慰我夢寐如􅀗珍寶維汗雨滛滛不妨校勘葢清時暇日與先輩表揚風雅自是樂事遂忘其勞也雖然摛辭吐句精會神流白雪陽春商􅃔周鼎作者苦心識者具眼倘遇知音千古一快哉兹因完刻以廣其傳漫識于此後學王俞書萬厤十七年已丑孟秋既望
+  hash: sha256:4c5a890615ad32abbed92d7226aa29ca7930429f69af7c7943483e81a3c0969d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0585_SBCK_032-1a}
+metadata:
+  title: 東維子文集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-11 16:30:45.077580'
+  source:
+    repository: kanripo
+    path: KR4d0585/KR4d0585_032.txt
+hash: sha256:d081c7d1f336e7e4793213a21b638f94101b5b16d01670b61be0a3ae61f3a3f4

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0585/WYG/v1/juan/31
+seq: 31
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一
+  hash: sha256:51a75f4634dfa8598a0a1436da0b7764830edd1f3a97661222387da2fe2b38d1
+metadata:
+  title: 東維子文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 16:30:45.077580'
+  source:
+    repository: kanripo
+    path: KR4d0585/KR4d0585_031.txt
+hash: sha256:a0a4ebec39d095593f8edd8bbd2df09b2d4b15eba4f5e23d6739cda36df9c611
