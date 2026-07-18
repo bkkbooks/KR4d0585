@@ -1553,6 +1553,7 @@ markers:
   - {type: line-break, offset: 4452, content: '', id: KR4d0585_SBCK_021-10b10}
   - {type: indent, offset: 4452, content: 　　　, id: KR4d0585_krp_021-bkkind46}
   - {type: punctuation, offset: 4454, content: (, id: KR4d0585_krp_021-bkkpn1}
+  - {type: voice, offset: 4454, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4455, content: ), id: KR4d0585_krp_021-bkkpn2}
   - {type: 'kr:newline', offset: 4455, content: '
 
@@ -1760,4 +1761,4 @@ markers:
   - {type: variant, offset: 5054, length: 0, content: '', WYG: 欽定四庫全書東維子集巻二十二元楊維楨撰志讀書齋}
   - {type: page-break, offset: 5054, content: '', id: KR4d0585_WYG_022-1a, image: WYG1221/WYG1221-0603a.png}
   back: []
-hash: sha256:ee0e4deef984b79b92db5e462df0b9f6e11140602eb90f5c0b53150bf60289bc
+hash: sha256:5ed171a16e43e46babc3fdc9b8e837a1c76e2e02ad59b8988f2137ca46e98f85

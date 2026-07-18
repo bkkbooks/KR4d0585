@@ -1614,6 +1614,7 @@ markers:
   - {type: variant, offset: 4403, length: 1, content: 之, WYG: ''}
   - {type: variant, offset: 4408, length: 1, content: 龜, SBCK: 􅀛}
   - {type: punctuation, offset: 4409, content: (, id: KR4d0585_krp_025-bkkpn1}
+  - {type: voice, offset: 4409, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4410, content: /, id: KR4d0585_krp_025-bkkpn2}
   - {type: punctuation, offset: 4411, content: ), id: KR4d0585_krp_025-bkkpn3}
   - {type: variant, offset: 4411, length: 1, content: 龜, SBCK: 􅀛}
@@ -2286,6 +2287,7 @@ markers:
   - {type: indent, offset: 6271, content: 　, id: KR4d0585_krp_025-bkkind80}
   - {type: variant, offset: 6282, length: 1, content: 來, WYG: 来}
   - {type: punctuation, offset: 6284, content: (, id: KR4d0585_krp_025-bkkpn4}
+  - {type: voice, offset: 6284, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 6286, content: ), id: KR4d0585_krp_025-bkkpn5}
   - {type: 'kr:newline', offset: 6286, content: '
 
@@ -2440,6 +2442,7 @@ markers:
   - {type: variant, offset: 6683, length: 1, content: 臧, SBCK: 􅆇}
   - {type: variant, offset: 6689, length: 1, content: 背, WYG: 皆}
   - {type: punctuation, offset: 6698, content: (, id: KR4d0585_krp_025-bkkpn6}
+  - {type: voice, offset: 6698, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 6699, content: ), id: KR4d0585_krp_025-bkkpn7}
   - {type: 'kr:newline', offset: 6699, content: '
 
@@ -2447,6 +2450,7 @@ markers:
   - {type: line-break, offset: 6699, content: '', id: KR4d0585_SBCK_025-15b03}
   - {type: indent, offset: 6699, content: 　, id: KR4d0585_krp_025-bkkind83}
   - {type: punctuation, offset: 6703, content: (, id: KR4d0585_krp_025-bkkpn8}
+  - {type: voice, offset: 6703, length: 15, name: note, id: n4}
   - {type: substitution, offset: 6706, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: variant, offset: 6717, length: 1, content: 辭, WYG: 詞}
   - {type: punctuation, offset: 6718, content: ), id: KR4d0585_krp_025-bkkpn9}
@@ -2615,4 +2619,4 @@ markers:
   - {type: variant, offset: 7213, length: 0, content: '', WYG: 欽定四庫全書東維子集巻二十六元楊維楨撰墓誌銘髙}
   - {type: page-break, offset: 7213, content: '', id: KR4d0585_WYG_026-1a, image: WYG1221/WYG1221-0657a.png}
   back: []
-hash: sha256:53d2c5a6c7d1f6fcdd9e97b6c3d29fb23df18ffe11310580b7864fe8aaa03775
+hash: sha256:54ee7f3d922a2477d1fd8c724e798fc073f8bb3c21ef01484168dca23c282129

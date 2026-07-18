@@ -158,6 +158,7 @@ markers:
   - {type: line-break, offset: 445, content: '', id: KR4d0585_SBCK_020-2a03}
   - {type: variant, offset: 456, length: 1, content: 教, WYG: 敎}
   - {type: punctuation, offset: 462, content: (, id: KR4d0585_krp_020-bkkpn1}
+  - {type: voice, offset: 462, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 463, content: /, id: KR4d0585_krp_020-bkkpn2}
   - {type: punctuation, offset: 464, content: ), id: KR4d0585_krp_020-bkkpn3}
   - {type: substitution, offset: 465, original: 効, replacement: 效, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17195}}
@@ -1783,6 +1784,7 @@ markers:
   - {type: line-break, offset: 4832, content: '', id: KR4d0585_SBCK_020-11b11}
   - {type: indent, offset: 4832, content: 　　, id: KR4d0585_krp_020-bkkind70}
   - {type: punctuation, offset: 4836, content: (, id: KR4d0585_krp_020-bkkpn4}
+  - {type: voice, offset: 4836, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4838, content: ), id: KR4d0585_krp_020-bkkpn5}
   - {type: 'kr:newline', offset: 4838, content: '
 
@@ -1969,6 +1971,7 @@ markers:
   - {type: punctuation, offset: 5337, content: (, id: KR4d0585_krp_020-bkkpn6}
   - {type: variant, offset: 5337, length: 1, content: 晋, WYG: 晉}
   - {type: substitution, offset: 5337, original: 晋, replacement: 晉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17094}}
+  - {type: voice, offset: 5337, length: 12, name: note, id: n3}
   - {type: variant, offset: 5341, length: 1, content: 怫, WYG: 佛}
   - {type: punctuation, offset: 5343, content: /, id: KR4d0585_krp_020-bkkpn7}
   - {type: variant, offset: 5343, length: 0, content: '', WYG: 清}
@@ -2070,6 +2073,7 @@ markers:
   - {type: line-break, offset: 5575, content: '', id: KR4d0585_SBCK_020-13b04}
   - {type: indent, offset: 5575, content: 　　, id: KR4d0585_krp_020-bkkind81}
   - {type: punctuation, offset: 5579, content: (, id: KR4d0585_krp_020-bkkpn9}
+  - {type: voice, offset: 5579, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5581, content: ), id: KR4d0585_krp_020-bkkpn10}
   - {type: 'kr:newline', offset: 5581, content: '
 
@@ -2523,4 +2527,4 @@ markers:
   - {type: variant, offset: 6676, length: 0, content: '', WYG: 欽定四庫全書東維子集巻二十一元楊維楨撰記}
   - {type: page-break, offset: 6676, content: '', id: KR4d0585_WYG_021-1a, image: WYG1221/WYG1221-0593c.png}
   back: []
-hash: sha256:16824be4bee48e322b6808da019d23a4bbf70a540b2148336e3c823919b07554
+hash: sha256:539c9751bc7f95172c59e6fae842e17aba064f236d5337a3abaa0f2b407408d0

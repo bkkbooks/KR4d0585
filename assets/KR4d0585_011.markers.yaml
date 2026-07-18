@@ -1593,6 +1593,7 @@ markers:
   - {type: variant, offset: 4643, length: 1, content: 算, WYG: 筭}
   - {type: punctuation, offset: 4645, content: (, id: KR4d0585_krp_011-bkkpn1}
   - {type: variant, offset: 4645, length: 1, content: 逸, SBCK: 􅇣}
+  - {type: voice, offset: 4645, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4646, content: /, id: KR4d0585_krp_011-bkkpn2}
   - {type: punctuation, offset: 4647, content: ), id: KR4d0585_krp_011-bkkpn3}
   - {type: variant, offset: 4652, length: 1, content: 算, SBCK: 􅈫}
@@ -2344,4 +2345,4 @@ markers:
   - {type: page-break, offset: 6661, content: '', id: KR4d0585_WYG_012-3b, image: WYG1221/WYG1221-0488d.png}
   - {type: page-break, offset: 6661, content: '', id: KR4d0585_WYG_012-4a, image: WYG1221/WYG1221-0489a.png}
   back: []
-hash: sha256:63aea4a995013a8b87b8333f8fd04ec5e2351980bca22425e8a644161f50542b
+hash: sha256:dd9fea09e4044db4787c601d155fc7ddf5a2c978748f63b9a3f5865fd3ea3fb9

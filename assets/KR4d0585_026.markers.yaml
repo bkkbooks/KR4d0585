@@ -776,6 +776,7 @@ markers:
   - {type: indent, offset: 2212, content: 　, id: KR4d0585_krp_026-bkkind14}
   - {type: variant, offset: 2217, length: 1, content: 兮, SBCK: 􅀆}
   - {type: punctuation, offset: 2223, content: (, id: KR4d0585_krp_026-bkkpn1}
+  - {type: voice, offset: 2223, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2224, content: ), id: KR4d0585_krp_026-bkkpn2}
   - {type: 'kr:newline', offset: 2233, content: '
 
@@ -902,6 +903,7 @@ markers:
   - {type: indent, offset: 2566, content: 　, id: KR4d0585_krp_026-bkkind17}
   - {type: variant, offset: 2569, length: 1, content: 兮, SBCK: 􅀆}
   - {type: punctuation, offset: 2573, content: (, id: KR4d0585_krp_026-bkkpn3}
+  - {type: voice, offset: 2573, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2574, content: ), id: KR4d0585_krp_026-bkkpn4}
   - {type: variant, offset: 2580, length: 1, content: 遥, WYG: 途}
   - {type: substitution, offset: 2580, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20748}}
@@ -2115,6 +2117,7 @@ markers:
   - {type: variant, offset: 6041, length: 1, content: 毀, WYG: 毁}
   - {type: variant, offset: 6044, length: 1, content: 微, WYG: 峙}
   - {type: punctuation, offset: 6052, content: (, id: KR4d0585_krp_026-bkkpn5}
+  - {type: voice, offset: 6052, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 6058, content: ), id: KR4d0585_krp_026-bkkpn6}
   - {type: 'kr:newline', offset: 6058, content: '
 
@@ -2171,6 +2174,7 @@ markers:
   - {type: substitution, offset: 6162, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: substitution, offset: 6168, original: 諮, replacement: 咨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20401}}
   - {type: punctuation, offset: 6170, content: (, id: KR4d0585_krp_026-bkkpn7}
+  - {type: voice, offset: 6170, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 6171, content: ), id: KR4d0585_krp_026-bkkpn8}
   - {type: substitution, offset: 6175, original: 捄, replacement: 救, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17284}}
   - {type: 'kr:newline', offset: 6178, content: '
@@ -2328,4 +2332,4 @@ markers:
   - {type: variant, offset: 6506, length: 0, content: '', WYG: 東維子集巻二十六欽定四庫全書東維子集巻二十七元楊維楨撰書}
   - {type: page-break, offset: 6506, content: '', id: KR4d0585_WYG_027-1a, image: WYG1221/WYG1221-0668a.png}
   back: []
-hash: sha256:d485945c5806a6da0a9a07c291375368dbbc61b5a04c00144c3306c6b82a5668
+hash: sha256:8421acfee3186bac1b6e397bdde59250038d9595921105d047b2beb69d203fbc

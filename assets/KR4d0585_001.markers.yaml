@@ -1050,6 +1050,7 @@ markers:
   - {type: line-break, offset: 3148, content: '', id: KR4d0585_SBCK_001-8a03}
   - {type: variant, offset: 3148, length: 1, content: 所, SBCK: 􅀁}
   - {type: punctuation, offset: 3160, content: (, id: KR4d0585_krp_001-bkkpn1}
+  - {type: voice, offset: 3160, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3161, content: /, id: KR4d0585_krp_001-bkkpn2}
   - {type: punctuation, offset: 3162, content: ), id: KR4d0585_krp_001-bkkpn3}
   - {type: 'kr:newline', offset: 3171, content: '
@@ -1427,4 +1428,4 @@ markers:
   - {type: variant, offset: 4245, length: 0, content: '', WYG: 欽定四庫全書東維子集巻二元楊維楨撰}
   - {type: page-break, offset: 4245, content: '', id: KR4d0585_WYG_002-1a, image: WYG1221/WYG1221-0388c.png}
   back: []
-hash: sha256:f9e4761d036a092921d8348e61b433af714f7de63bb207999805d3e9ac363da3
+hash: sha256:1bad35e36b0d92879c3adb72bf618bc5c0c5ba0e6e4d9e3ffb4b084c585b5446

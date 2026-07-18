@@ -575,6 +575,7 @@ markers:
       ', id: KR4d0585_krp_006-bkkkrnewl99}
   - {type: line-break, offset: 1830, content: '', id: KR4d0585_SBCK_006-5a04}
   - {type: punctuation, offset: 1850, content: (, id: KR4d0585_krp_006-bkkpn1}
+  - {type: voice, offset: 1850, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1851, content: /, id: KR4d0585_krp_006-bkkpn2}
   - {type: punctuation, offset: 1852, content: ), id: KR4d0585_krp_006-bkkpn3}
   - {type: 'kr:newline', offset: 1853, content: '
@@ -582,18 +583,22 @@ markers:
       ', id: KR4d0585_krp_006-bkkkrnewl100}
   - {type: line-break, offset: 1853, content: '', id: KR4d0585_SBCK_006-5a05}
   - {type: punctuation, offset: 1855, content: (, id: KR4d0585_krp_006-bkkpn4}
+  - {type: voice, offset: 1855, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1857, content: /, id: KR4d0585_krp_006-bkkpn5}
   - {type: punctuation, offset: 1859, content: ), id: KR4d0585_krp_006-bkkpn6}
   - {type: punctuation, offset: 1861, content: (, id: KR4d0585_krp_006-bkkpn7}
+  - {type: voice, offset: 1861, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1862, content: /, id: KR4d0585_krp_006-bkkpn8}
   - {type: variant, offset: 1862, length: 1, content: 菴, WYG: 庵}
   - {type: punctuation, offset: 1863, content: ), id: KR4d0585_krp_006-bkkpn9}
   - {type: punctuation, offset: 1864, content: (, id: KR4d0585_krp_006-bkkpn10}
+  - {type: voice, offset: 1864, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1865, content: /, id: KR4d0585_krp_006-bkkpn11}
   - {type: variant, offset: 1865, length: 1, content: 菴, WYG: 庵}
   - {type: punctuation, offset: 1866, content: ), id: KR4d0585_krp_006-bkkpn12}
   - {type: variant, offset: 1868, length: 1, content: 禾, WYG: 未}
   - {type: punctuation, offset: 1872, content: (, id: KR4d0585_krp_006-bkkpn13}
+  - {type: voice, offset: 1872, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1873, content: ), id: KR4d0585_krp_006-bkkpn14}
   - {type: 'kr:newline', offset: 1879, content: '
 
@@ -1644,4 +1649,4 @@ markers:
   - {type: page-break, offset: 4981, content: '', id: KR4d0585_WYG_007-9a, image: WYG1221/WYG1221-0440c.png}
   - {type: page-break, offset: 4981, content: '', id: KR4d0585_WYG_007-9b, image: WYG1221/WYG1221-0440d.png}
   back: []
-hash: sha256:6e2f4c420f32d306191a33df5b5f95e8ad4f32c49c4910e67bcd991b2281966e
+hash: sha256:4dd5f2a2b70beac2ee3d830e72e89f4544332e7d028c00e6bfe5a46f63a5fedf

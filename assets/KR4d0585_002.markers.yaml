@@ -619,6 +619,7 @@ markers:
   - {type: line-break, offset: 1633, content: '', id: KR4d0585_SBCK_002-4b06}
   - {type: variant, offset: 1640, length: 1, content: 所, SBCK: 􅀁}
   - {type: punctuation, offset: 1645, content: (, id: KR4d0585_krp_002-bkkpn1}
+  - {type: voice, offset: 1645, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1646, content: ), id: KR4d0585_krp_002-bkkpn2}
   - {type: variant, offset: 1653, length: 1, content: 巳, WYG: 已}
   - {type: page-break, offset: 1654, content: '', id: KR4d0585_WYG_002-6b, image: WYG1221/WYG1221-0391b.png}
@@ -627,6 +628,7 @@ markers:
       ', id: KR4d0585_krp_002-bkkkrnewl90}
   - {type: line-break, offset: 1655, content: '', id: KR4d0585_SBCK_002-4b07}
   - {type: punctuation, offset: 1659, content: (, id: KR4d0585_krp_002-bkkpn3}
+  - {type: voice, offset: 1659, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1660, content: ), id: KR4d0585_krp_002-bkkpn4}
   - {type: variant, offset: 1675, length: 1, content: 裨, WYG: 禆}
   - {type: 'kr:newline', offset: 1677, content: '
@@ -1360,6 +1362,7 @@ markers:
   - {type: line-break, offset: 3821, content: '', id: KR4d0585_SBCK_002-9b01}
   - {type: indent, offset: 3821, content: 　　, id: KR4d0585_krp_002-bkkind43}
   - {type: punctuation, offset: 3830, content: (, id: KR4d0585_krp_002-bkkpn5}
+  - {type: voice, offset: 3830, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3832, content: ), id: KR4d0585_krp_002-bkkpn6}
   - {type: 'kr:newline', offset: 3832, content: '
 
@@ -1609,6 +1612,7 @@ markers:
   - {type: line-break, offset: 4573, content: '', id: KR4d0585_SBCK_002-11a05}
   - {type: indent, offset: 4573, content: 　　, id: KR4d0585_krp_002-bkkind49}
   - {type: punctuation, offset: 4581, content: (, id: KR4d0585_krp_002-bkkpn7}
+  - {type: voice, offset: 4581, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 4585, content: ), id: KR4d0585_krp_002-bkkpn8}
   - {type: 'kr:newline', offset: 4585, content: '
 
@@ -1813,4 +1817,4 @@ markers:
   - {type: variant, offset: 5158, length: 0, content: '', WYG: 欽定四庫全書東維子集巻三元楊維楨撰}
   - {type: page-break, offset: 5158, content: '', id: KR4d0585_WYG_003-1a, image: WYG1221/WYG1221-0397a.png}
   back: []
-hash: sha256:b8c0d5e6a4fd3efb06ef22fe2c9f0af008e9b4523bb4919bebee8c27bf0815e0
+hash: sha256:7068b551691fa86ce0545c8064507b8d19ce65a7352f65948a59e13bc9db8a39

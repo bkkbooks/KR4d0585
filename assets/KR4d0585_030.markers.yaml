@@ -26,6 +26,7 @@ markers:
   - {type: indent, offset: 11, content: 　　, id: KR4d0585_krp_030-bkkind2}
   - {type: variant, offset: 12, length: 1, content: 所, SBCK: 􅀁}
   - {type: punctuation, offset: 14, content: (, id: KR4d0585_krp_030-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR4d0585_krp_030-bkkpn2}
   - {type: 'kr:newline', offset: 16, content: '
 
@@ -200,6 +201,7 @@ markers:
   - {type: variant, offset: 549, length: 1, content: 兮, SBCK: 􅀆}
   - {type: variant, offset: 555, length: 1, content: 憂, SBCK: 􅁨}
   - {type: punctuation, offset: 560, content: (, id: KR4d0585_krp_030-bkkpn3}
+  - {type: voice, offset: 560, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 561, content: ), id: KR4d0585_krp_030-bkkpn4}
   - {type: 'kr:newline', offset: 561, content: '
 
@@ -545,6 +547,7 @@ markers:
   - {type: line-break, offset: 1515, content: '', id: KR4d0585_SBCK_030-6a02}
   - {type: indent, offset: 1515, content: 　　, id: KR4d0585_krp_030-bkkind45}
   - {type: punctuation, offset: 1518, content: (, id: KR4d0585_krp_030-bkkpn5}
+  - {type: voice, offset: 1518, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1520, content: ), id: KR4d0585_krp_030-bkkpn6}
   - {type: 'kr:newline', offset: 1520, content: '
 
@@ -1321,4 +1324,4 @@ markers:
   - {type: variant, offset: 3357, length: 0, content: '', WYG: 欽定四庫全書東維子集巻三十一}
   - {type: page-break, offset: 3357, content: '', id: KR4d0585_WYG_031-1a, image: WYG1221/WYG1221-0709a.png}
   back: []
-hash: sha256:dbff5476a6a498a286711166d8e2b0387b1b660f23848e2650f050070ba4b8f8
+hash: sha256:2e9a9ff78d7af102f51b16b1a6a9e108056e1181d8a498304867d4162cc93d19

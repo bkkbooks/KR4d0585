@@ -438,6 +438,7 @@ markers:
   - {type: line-break, offset: 1271, content: '', id: KR4d0585_SBCK_012-4a06}
   - {type: punctuation, offset: 1291, content: (, id: KR4d0585_krp_012-bkkpn1}
   - {type: variant, offset: 1291, length: 1, content: 刀, WYG: 力}
+  - {type: voice, offset: 1291, length: 5, name: note, id: n1}
   - {type: variant, offset: 1293, length: 1, content: 士, WYG: 土}
   - {type: punctuation, offset: 1294, content: /, id: KR4d0585_krp_012-bkkpn2}
   - {type: punctuation, offset: 1296, content: ), id: KR4d0585_krp_012-bkkpn3}
@@ -2599,4 +2600,4 @@ markers:
   - {type: variant, offset: 7533, length: 0, content: '', WYG: 欽定四庫全書東維子集巻十三元楊維楨撰}
   - {type: page-break, offset: 7533, content: '', id: KR4d0585_WYG_013-1a, image: WYG1221/WYG1221-0501a.png}
   back: []
-hash: sha256:6a7e79f690617230572836d8e8eab059bde198ecafddc749ddc197f4a60ef157
+hash: sha256:0883ffe2327060507138e682c6bb2486784d20363d753e0c1374ec258f667a81
